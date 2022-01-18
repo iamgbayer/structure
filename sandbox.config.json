@@ -1,0 +1,9 @@
+{
+  "infiniteLoopProtection": true,
+  "hardReloadOnChange": true,
+  "view": "browser",
+  "startScript": "start",
+  "container": {
+    "startScript": "start"
+  }
+}
